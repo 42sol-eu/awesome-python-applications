@@ -161,7 +161,7 @@ thereof), see Architectures. -->
   1. **Wagtail** - ([Repo](https://github.com/wagtail/wagtail)) 
   1. **Plone** - ([Repo](https://en.wikipedia.org/wiki/Plone_(software))) 
   1. **Mezzanine** - ([Repo](https://github.com/stephenmcd/mezzanine)) 
-  1. **Lektor** - ([Repo](https://github.com/lektor/lektor), [Home](https://www.getlektor.com/)) 
+  1. **Lektor** - ([Repo](https://github.com/lektor/lektor), [Home](https://www.getlektor.com/)), a offline CMS with greate integration to automatic build and deployment (written by Armin Ronacher) 
   1. **Saleor** - ([Repo](https://github.com/mirumee/saleor/)) 
 
 ## <a id="tag-erp" href="#erp">ERP</a>
